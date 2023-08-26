@@ -1,0 +1,95 @@
+body {
+    width: 100%;
+    height: 100%;
+    color: #f5f6f7;
+    margin: 0;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 16px;
+    background: url('https://www.computersciencedegreehub.com/wp-content/uploads/2023/02/shutterstock_535124956-scaled.jpg');
+    /*box-shadow: inset 0 0 0 2000px rgba(82, 31, 111, 0.6);
+    position: absolute; */
+    padding-bottom: 1em;
+    
+  }
+  
+  h1, p {
+    margin: 1em auto;
+    text-align: center;
+  }
+  
+  form {
+    width: 60vw;
+    max-width: 700px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding-bottom: 1em;
+    background-color: rgba(20, 43, 51, 0.85);
+    box-shadow: 0 0 10vh rgb(20, 43, 51);
+    border-radius: 0.3em;
+    border: 1px solid #082034;
+    
+  }
+  
+  div {
+    margin"
+  }
+  
+  label {
+    display: block;
+    margin: 0 auto;
+    padding: 2.5vh 3vh;
+  }
+  
+  input, textarea {
+    background-color: rgba(12, 38, 78, 0.3);
+    border-radius: 0.3em;
+    border: 1px solid #082034;
+    color: #f5f6f7;
+  }
+  input,
+  textarea,
+  select {
+    margin: 0 auto;
+    margin-top: 0.2em;
+    width: 99%;
+    min-height: 2em;
+  }
+  
+  .inline {
+    width: unset;
+    margin: 0 0.8em 0 0;
+    vertical-align: middle;
+  }
+  
+  .botmargin {
+    
+    margin-bottom: 0.6em;
+  }
+  
+  .topmargin {
+    margin: 0;
+  }
+  ::placeholder {
+    color: #c5c5c5;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+  }
+  
+  select {
+    background-color: #8A9CB5E5;
+    color: white;
+    border-radius: 0.3em;
+    
+  }
+  
+  input[type='submit'] {
+    display: block;
+    width: 60%;
+    margin: 1em auto;
+    height: 2em;
+    font-size: 1.1rem;
+    color: white;
+    background-color: rgba(0,	187,	0, 0.5);
+    border-color: white;
+    min-width: 300px;
+    border-radius: 0.8em;
+  }
